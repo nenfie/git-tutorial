@@ -1,0 +1,8 @@
+# filename #
+config.ini
+
+# extension #
+*.exe
+
+# folder #
+bin/
