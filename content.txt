@@ -10,6 +10,6 @@ The playlist tutorial covers following topics:
 - GitHub Pages
 - Multiple Remotes
 - Remote Branch
-- Git Ignore
+- GitIgnore
 - Git Rebase
 - Git & Web Hosting
