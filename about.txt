@@ -5,3 +5,9 @@ Main benefits:
 - Allows for better team colaboration
 - View history of code changes (who/when/why)
 - Allows to revert to previous states 
+
+There are several popular Version Source Control (VSC) available: 
+- Subversion (SVN)
+- Mercurial
+- CVS
+- Git
