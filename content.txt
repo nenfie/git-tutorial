@@ -3,7 +3,7 @@ The playlist tutorial covers several topic:
 - Working with GitHub
 - GitHub Branch, Fork
 - Working with Git
-- Git Branch, Merge
+- Git Branch, Merge, Merge Conflict
 - Git Remote, Multiple Remotes, Remote Branch
 - GitHub Pages
 - Git Ignore
