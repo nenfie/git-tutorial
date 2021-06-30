@@ -1,10 +1,10 @@
 The playlist tutorial covers several topic:
 - Git & GitHub introduction
 - Working with GitHub
-- GitHub : Branch / Fork
+- GitHub Branch, Fork
 - Working with Git
-- Git : Branch / Merge
-- Git Remote, including Multiple Remotes
+- Git Branch, Merge
+- Git Remote, Multiple Remotes, Remote Branch
 - GitHub Pages
 - Git Ignore
 - Git Rebase
