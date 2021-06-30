@@ -1,2 +1,7 @@
-Source control management is essential for every software developer.
-It helps us    
+Source control management is essential for software developer.
+
+Main benefits:
+- Saves snapshot of every code changes
+- Allows for better team colaboration
+- View history of code changes (who/when/why)
+- Allows to revert to previous states 
