@@ -1,5 +1,5 @@
 The playlist tutorial covers following topics:
-- Git & GitHub Introduction
+- Introduction to Git & GitHub
 - Working with GitHub
 - GitHub Branch
 - GitHub Fork
@@ -8,6 +8,8 @@ The playlist tutorial covers following topics:
 - Git Merge Conflict
 - Git Remote
 - GitHub Pages
+- Multiple Remotes
+- Remote Branch
 - Git Ignore
 - Git Rebase
 - Git & Web Hosting
