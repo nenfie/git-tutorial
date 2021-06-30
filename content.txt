@@ -1,5 +1,5 @@
-The playlist tutorial covers several topic:
-- Git & GitHub introduction
+The playlist tutorial covers following topics:
+- Git & GitHub Introduction
 - Working with GitHub
 - GitHub Branch, Fork
 - Working with Git
