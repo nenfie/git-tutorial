@@ -7,7 +7,7 @@ Main benefits:
 - Allows to revert to previous states 
 
 There are several popular Version Source Control (VSC) available: 
-- Subversion (SVN)
+- Subversion
 - Mercurial
 - CVS
 - Git
