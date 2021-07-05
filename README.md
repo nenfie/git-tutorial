@@ -1,10 +1,5 @@
-# git-tutorial
-Learn how to use Git
+# git-and-github
 
-This repo is created based on Youtube video tutorial about Git & GitHub from Web Programming UNPAS channel.
+Repo ini dibuat berdasarkan Youtube video dari channel Web Programming UNPAS
 
-You can watch the full playlist here : https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf
-
-Its a good starting point for anyone who want to learn about source control in general and Git in particular.
-
-Note: It is presented in Bahasa.
+Anda dapat melihat daftar lengkapnya disini : https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf
