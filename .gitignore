@@ -1,8 +1,8 @@
-# filename #
+# using filename
 config.ini
 
-# extension #
+# using extension
 *.exe
 
-# folder #
+# using folder
 bin/
